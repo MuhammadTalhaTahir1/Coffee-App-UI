@@ -10,6 +10,7 @@ import {
   TouchableOpacity,
   FlatList,
 } from "react-native";
+
 import React, { useState } from "react";
 import { MapPinIcon } from "react-native-heroicons/solid";
 import { BellIcon, MagnifyingGlassIcon } from "react-native-heroicons/outline";
